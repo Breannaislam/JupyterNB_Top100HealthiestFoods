@@ -25,6 +25,6 @@
 
 - **Antioxidant-rich foods for reducing oxidative stress**
 
-  Open jupyter file to view FinalProject.ipynb
+  Open jupyter file to view [FinalProject.ipynb](https://github.com/Breannaislam/JupyterNB_Top100HealthiestFoods/blob/main/FinalProject.ipynb)
 
   
